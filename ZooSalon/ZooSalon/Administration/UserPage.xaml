@@ -1,0 +1,57 @@
+﻿<Page x:Class="ZooSalon.Administration.UserPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ZooSalon.Administration"
+      mc:Ignorable="d" 
+        d:DesignHeight="624" d:DesignWidth="829"
+      IsVisibleChanged="Page_IsVisibleChanged"
+      Title="UserPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBlock Text="Информация о пользователях" Margin="4" 
+                       VerticalAlignment="Top" HorizontalAlignment="Center"
+                       FontSize="30"/>
+        </Grid>
+        <Button Grid.Row="2" Content="Истории входа" Name="btnHistory"
+                Click="btnHistory_Click" HorizontalAlignment="Right"
+                Margin="5" Style="{DynamicResource TertiaryButtonStyle}"/>
+        <Button Grid.Row="2" Content="Добавить" Name="btnAddUser"
+                Click="btnAddUser_Click" HorizontalAlignment="Left" 
+                Margin="5" Style="{DynamicResource TertiaryButtonStyle}"/>
+        <Button Grid.Row="2" Content="Удалить" Name="btnDeleteUser"
+                Click="btnDeleteUser_Click" HorizontalAlignment="Center"
+                Margin="5" Style="{DynamicResource TertiaryButtonStyle}"/>
+        <DataGrid Grid.Row="1" Name="DGridUsers" AutoGenerateColumns="False"
+                  IsReadOnly="True" RowHeaderWidth="0" Background="#FFC3C5E7">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Логин" Binding="{Binding Login}"
+                                    Width="80*"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}"
+                                    Width="80*"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}"
+                                    Width="80*"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding Role.Name}"
+                                    Width="80*"/>
+                <DataGridTemplateColumn Width="40">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="btnEdit" Click="btnEdit_Click" Width="35"
+                                    Style="{DynamicResource SecundaryButtonStyle}">
+                                <Image Source="/Resources/MenuImages/edit.png" 
+                                       Width="30"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

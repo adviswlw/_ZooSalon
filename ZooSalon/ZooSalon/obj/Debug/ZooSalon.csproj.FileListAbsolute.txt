@@ -1,0 +1,268 @@
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Login.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_MarkupCompile.cache
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_MarkupCompile.lref
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.exe.config
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.exe
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.pdb
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\App.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Login.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.g.resources
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.Properties.Resources.resources
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.exe
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.pdb
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Registration.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Registration.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\TEST.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\TEST.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Colors.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\TextBox.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Button.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\RadioButtonStyle.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Themes\DarkTheme1.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Themes\LightTheme1.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Icons.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\MainWinAdmin.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\MainWinAdmin.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\mainPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\mainPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\TovarZoo.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_Content.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\TovarZoo.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.CopyComplete
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ServicePage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ServicePage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\UserMein\MainWinUser.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\UserMein\MainWinUser.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\CategoriesPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditServicePage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\CategoriesPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditServicePage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditOrderPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\OrderPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\StartupPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditOrderPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\OrderPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\StartupPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditClientPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditUserPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ClientsPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\HistoryPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\UserPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditClientPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditUserPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ClientsPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\HistoryPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\UserPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditEmployeePage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\EmployeersPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ReportsPage.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ChangePassword.g.cs
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditEmployeePage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\EmployeersPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ReportsPage.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ChangePassword.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.exe.config
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.exe
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.pdb
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.dll
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.SqlServer.dll
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.xml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.SqlServer.xml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\EntityFramework.resources.dll
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csprojAssemblyReference.cache
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Button.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Colors.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Icons.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\RadioButtonStyle.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\TextBox.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Themes\DarkTheme1.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Themes\LightTheme1.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditClientPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditEmployeePage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditOrderPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditServicePage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditUserPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\CategoriesPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ClientsPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\EmployeersPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\HistoryPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\mainPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\MainWinAdmin.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\OrderPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ReportsPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ServicePage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\StartupPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\TovarZoo.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\UserPage.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ChangePassword.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Login.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Registration.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\TEST.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\UserMein\MainWinUser.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\App.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_Content.g.cs
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_MarkupCompile.cache
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_MarkupCompile.lref
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\App.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditClientPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditEmployeePage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditOrderPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditServicePage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditUserPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\CategoriesPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ClientsPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\EmployeersPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\HistoryPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\mainPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\MainWinAdmin.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\OrderPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ReportsPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ServicePage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\StartupPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\TovarZoo.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\UserPage.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ChangePassword.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Login.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Registration.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\TEST.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\UserMein\MainWinUser.baml
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.g.resources
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.Properties.Resources.resources
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.GenerateResource.cache
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.CoreCompileInputs.cache
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.CopyComplete
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.exe
+D:\_пWPF\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.pdb
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\SALON.baml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.Charting.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.xml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.Charting.xml
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\HP\Desktop\ис41 практики\DIPLOM\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.exe.config
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.exe
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ZooSalon.pdb
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.Charting.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.xml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\PdfSharp.Charting.xml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Button.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Colors.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\Icons.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\RadioButtonStyle.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\SALON.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Style\TextBox.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Themes\DarkTheme1.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Themes\LightTheme1.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditClientPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditEmployeePage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditOrderPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditServicePage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditUserPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\CategoriesPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ClientsPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\EmployeersPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\HistoryPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\mainPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\MainWinAdmin.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\OrderPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ReportsPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ServicePage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\StartupPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\TovarZoo.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\UserPage.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ChangePassword.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Login.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Registration.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\TEST.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_Content.g.cs
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_MarkupCompile.cache
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon_MarkupCompile.lref
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\App.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditClientPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditEmployeePage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditOrderPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditServicePage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\AddEditUserPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\CategoriesPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ClientsPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\EmployeersPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\HistoryPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\mainPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\MainWinAdmin.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\OrderPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ReportsPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\ServicePage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\StartupPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\TovarZoo.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Administration\UserPage.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ChangePassword.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Login.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\Registration.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\TEST.baml
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.g.resources
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.Properties.Resources.resources
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.csproj.CopyComplete
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.exe
+C:\Users\HP\Desktop\защита~\_ZooSalon\ZooSalon\ZooSalon\obj\Debug\ZooSalon.pdb

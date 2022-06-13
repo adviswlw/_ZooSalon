@@ -1,0 +1,34 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <!--Colors-->
+    <!--Background Colors-->
+    <SolidColorBrush x:Key="PrimaryBackgroundColor" Color="#FFFFFF"/>
+    <!--Primary Colors-->
+    <SolidColorBrush x:Key="PrimaryBluePurple" Color="#4d5061"/>
+    <SolidColorBrush x:Key="PrimaryPurple" Color="#bbadff"/>
+
+    <!--Secundary Colors-->
+    <SolidColorBrush x:Key="SecundaryBluePurple" Color="#8e94f2"/>
+    <SolidColorBrush x:Key="SecundaryPurple" Color="#dab6fc"/>
+
+    <!--Tertiary Colors-->
+    <SolidColorBrush x:Key="TertiaryBluePurple" Color="#585191"/>
+    <SolidColorBrush x:Key="TertiaryPurple" Color="#7d6f86"/>
+
+    <!--Text Colors-->
+    <SolidColorBrush x:Key="PrimaryTextBlackColor" Color="#010101"/>
+
+
+    <SolidColorBrush x:Key="PrimaryTextWhiteColor" Color="#FFFFFF"/>
+
+    <SolidColorBrush x:Key="ButtonMouseOverColor" Color="#4f359b"/>
+
+    <SolidColorBrush x:Key="ButtonPressedColor" Color="#585191"/>
+
+    <SolidColorBrush x:Key="PrimaryDarkTextColor" Color="#4f359b"/>
+
+    <SolidColorBrush x:Key="ButtonBorderBrush" Color="#4f359b"/>
+
+</ResourceDictionary>

@@ -1,0 +1,80 @@
+﻿<Page x:Class="ZooSalon.Administration.AddEditServicePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ZooSalon.Administration"
+      mc:Ignorable="d" 
+      d:DesignHeight="624" d:DesignWidth="829"
+      Title="AddEditServicePage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="287*"></ColumnDefinition>
+            <ColumnDefinition Width="543*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,0.4,0.4"/>
+        <TextBlock Grid.ColumnSpan="2" Text="Изменить/Добавить услугу" 
+                   FontSize="30" HorizontalAlignment="Center" Margin="230,4,229.4,4.4" Width="371"/>
+        <Grid Grid.Row="1" VerticalAlignment="Center" 
+              HorizontalAlignment="Center" Height="225" Margin="80,157.6,84.2,157.4" Width="123">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Название" FontSize="20" Grid.Row="0"/>
+            <TextBlock Text="Стоимость" FontSize="20" Grid.Row="1"/>
+            <TextBlock Text="Описание" FontSize="20" Grid.Row="2"/>
+            <TextBlock Text="Актуальность" FontSize="20" Grid.Row="3"/>
+            <TextBlock Name="txtBlockCategory" Text="Категория" FontSize="20" 
+                       Grid.Row="4" Visibility="Collapsed"/>
+        </Grid>
+
+        <Grid Grid.Column="1" Grid.Row="1" VerticalAlignment="Center"
+              HorizontalAlignment="Center" Height="232" Margin="119.6,142.6,122.8,149.4" Width="300">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBox x:Name="txtBoxName" Grid.Row="0"
+                     Text="{Binding Name}" AllowDrop="True" 
+                     Style="{DynamicResource TextBoxStyle}"
+                     TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"
+                     AcceptsReturn="True" MaxLength="50"/>
+            <TextBox x:Name="txtBoxCost" Grid.Row="1" 
+                     Text="{Binding Cost, StringFormat=c, ConverterCulture=ru}"
+                      Style="{DynamicResource TextBoxStyle}"
+                     PreviewTextInput="txtBoxCost_PreviewTextInput"/>
+            <TextBox x:Name="txtBoxDescription" Grid.Row="2" 
+                     Text="{Binding Description}" AllowDrop="True" 
+                      Style="{DynamicResource TextBoxStyle}"
+                     TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" 
+                     AcceptsReturn="True" MaxLength="100"/>
+            <ComboBox x:Name="comboBoxIsActual" Grid.Row="3" Height="40" 
+                      VerticalContentAlignment="Center" 
+                      HorizontalContentAlignment="Center"/>
+            <ComboBox x:Name="comboBoxCategory" Grid.Row="4" 
+                      Height="40" VerticalContentAlignment="Center" 
+                      HorizontalContentAlignment="Center" 
+                      Visibility="Collapsed" DisplayMemberPath="Name"/>
+        </Grid>
+        <Button Content="Сохранить" Name="btnSave" Click="btnSave_Click"
+                Style="{DynamicResource PrimaryButtonStyle}"
+                Grid.Row="2" HorizontalAlignment="Center" Grid.Column="1" 
+                Margin="34.6,2.6,262.8,3" Width="245"/>
+    </Grid>
+</Page>

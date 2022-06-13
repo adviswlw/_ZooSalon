@@ -1,0 +1,60 @@
+﻿<Page x:Class="ZooSalon.Administration.mainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ZooSalon.Administration"
+      mc:Ignorable="d" 
+      d:DesignHeight="624" d:DesignWidth="829"
+      Title="mainPage">
+
+    <Border CornerRadius="8" Background="{DynamicResource SecundaryBackgroundColor}">
+
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <ListView x:Name="LViewMain" Grid.Row="1" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="20" Width="400">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="70"/>
+                                <RowDefinition Height="310"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <!--<Image Width="400" Grid.Row="1" Stretch="UniformToFill"
+                               HorizontalAlignment="Center" Margin="5">
+                                <Image.Style>
+                                    <Binding Path="ImagePreview">
+                                        <Binding.TargetNullValue>
+                                            <ImageSource>Resources/picture.png</ImageSource>
+                                        </Binding.TargetNullValue>
+                                    </Binding>
+                                </Image.Style>
+                            </Image>--> 
+                            <TextBlock Text="{Binding Name}" 
+                                   FontSize="26" Margin="5 5"
+                                   VerticalAlignment="Center" HorizontalAlignment="Center"
+                                   TextWrapping="Wrap" TextAlignment="Center" 
+                                   Width="290" Grid.Row="0"/>
+                            <TextBlock Text="{Binding Cost}"
+                                   Grid.Row="2" FontSize="26" HorizontalAlignment="Center"
+                                   FontWeight="Bold"/>
+                            <TextBlock Text="{Binding IsActual}"
+                                   Grid.Row="3" FontSize="14" HorizontalAlignment="Left"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+        </Grid>
+
+    </Border>
+  
+</Page>

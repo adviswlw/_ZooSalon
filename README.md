@@ -2,15 +2,15 @@
 
 **Разработка информационной системы деятельности салона красоты для животных**
 
-Проект был разработан в Microsoft Visual Studio на языке программирования C# с использованием баз данных SqlServer.
+![изображение](https://github.com/adviswlw/_ZooSalon/assets/76786845/d5e2786b-264e-4016-aa68-625aa7509c7d)
 
-![изображение](https://github.com/adviswlw/ZooSalonWPF/assets/76786845/43fff804-83e4-4d7d-857f-0a6770501f40)
-![изображение](https://github.com/adviswlw/ZooSalonWPF/assets/76786845/8ca62d4a-609b-4d45-b83d-87e72475ce65)
+Проект был разработан в Microsoft Visual Studio на языке программирования C# с использованием баз данных SqlServer.
 
 ## Диаграмма вариантов испольхования
 
-![изображение](https://github.com/adviswlw/ZooSalonWPF/assets/76786845/dca82e9a-97cb-4eb7-90a2-8081f9a9c991)
+![изображение](https://github.com/adviswlw/_ZooSalon/assets/76786845/73aab608-9e0f-4928-a59c-3614a8918da1)
 
 ## Контекстная диаграмма
 
-![изображение](https://github.com/adviswlw/ZooSalonWPF/assets/76786845/4a45749c-33f3-442c-98db-42b826a7cae1)
+![изображение](https://github.com/adviswlw/_ZooSalon/assets/76786845/0add0332-4fdd-47db-a2d6-4bcb895a7a27)
+
